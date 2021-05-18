@@ -17,8 +17,8 @@
 - Movie Database Console [[git repo](https://github.com/d5br5/snu_data_structure/tree/main/HW2)]
 - Infix to Postfix Calculator [[git repo](https://github.com/d5br5/snu_data_structure/tree/main/HW3)]
 - Sorting Method Comparison [[git repo](https://github.com/d5br5/snu_data_structure/tree/main/HW4)]
-- AVL Tree [[git repo](https://github.com/d5br5/snu_data_structure/tree/main/HW5)]
-- Subway route search [[git repo](https://github.com/d5br5/snu_data_structure/tree/main/HW6)]
+- AVL Tree _ In progress [[git repo](https://github.com/d5br5/snu_data_structure/tree/main/HW5)]
+- Subway route search _ In progress [[git repo](https://github.com/d5br5/snu_data_structure/tree/main/HW6)]
 
 
 <!--
