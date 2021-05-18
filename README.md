@@ -2,7 +2,7 @@
 
 ### web page
 
-- d5br5.com [[link](http://d5br5.com)] [[git repo](https://github.com/d5br5/d5br5.com)]
+- d5br5.com - html,css,js [[link](http://d5br5.com)] [[git repo](https://github.com/d5br5/d5br5.com)]
 
 
 
