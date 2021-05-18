@@ -9,7 +9,7 @@
 
 - minesweeper [[link](https://d5br5.github.io/minesweeper/) / [git](https://github.com/d5br5/minesweeper)]
 - coin trading market [[link](https://codesandbox.io/s/naughty-browser-5rvjd?file=/src/index.js) / [git](https://github.com/d5br5/coindealer.api)]
-- SNU RPG mudgame [[link](https://hxj8x.sse.codesandbox.io/) / [git](https://github.com/jaecheoljung/mudgame)]
+- SNU RPG mudgame [[link](https://hxj8x.sse.codesandbox.io/) / [git](https://github.com/d5br5/mudgame)]
 
 ### JAVA App
 
@@ -20,6 +20,7 @@
 - AVL Tree _ In progress [[git](https://github.com/d5br5/snu_data_structure/tree/main/HW5)]
 - Subway route search _ In progress [[git](https://github.com/d5br5/snu_data_structure/tree/main/HW6)]
 
+⚛️ Learning React.js now  
 
 <!--
 **d5br5/d5br5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
