@@ -14,7 +14,7 @@
 ### JAVA App
 
 - Big Int Calculator [[git](https://github.com/d5br5/snu_data_structure/tree/main/HW1)]
-- Movie Database Console [[gito](https://github.com/d5br5/snu_data_structure/tree/main/HW2)]
+- Movie Database Console [[git](https://github.com/d5br5/snu_data_structure/tree/main/HW2)]
 - Infix to Postfix Calculator [[git](https://github.com/d5br5/snu_data_structure/tree/main/HW3)]
 - Sorting Method Comparison [[git](https://github.com/d5br5/snu_data_structure/tree/main/HW4)]
 - AVL Tree _ In progress [[git](https://github.com/d5br5/snu_data_structure/tree/main/HW5)]
