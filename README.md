@@ -7,9 +7,9 @@
 
 ### Web App
 
-- minesweeper [[link](https://d5br5.github.io/minesweeper/)] [[git repo](https://github.com/d5br5/minesweeper)]
-- coin trading market [[link](https://codesandbox.io/s/naughty-browser-5rvjd?file=/src/index.js)] [[git repo](https://github.com/d5br5/coindealer.api)]
-- SNU RPG mudgame [[link](https://hxj8x.sse.codesandbox.io/)] [[git repo](https://github.com/jaecheoljung/mudgame)]
+- minesweeper [[link](https://d5br5.github.io/minesweeper/) / [git repo](https://github.com/d5br5/minesweeper)]
+- coin trading market [[link](https://codesandbox.io/s/naughty-browser-5rvjd?file=/src/index.js) / [git repo](https://github.com/d5br5/coindealer.api)]
+- SNU RPG mudgame [[link](https://hxj8x.sse.codesandbox.io/) / [git repo](https://github.com/jaecheoljung/mudgame)]
 
 ### JAVA App
 
