@@ -1,10 +1,10 @@
 ## Learning Now
-⚛️ React.js
+- ⚛️ React.js
 
 
 ## ⚡ Projects
 
-### Web Page
+#### Web Page
 
 - d5br5.com  [[link](http://d5br5.com) / [git](https://github.com/d5br5/d5br5.com)]
 - youniv.video [[link](http://www.youniv.video)]
