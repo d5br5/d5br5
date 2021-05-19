@@ -1,7 +1,3 @@
-## 📜 Learning Now
-- React.js
-
-
 ## ⚡ Projects
 
 ### Web Page
@@ -24,6 +20,8 @@
 - AVL Tree _ In progress [[git](https://github.com/d5br5/snu_data_structure/tree/main/HW5)]
 - Subway route search _ In progress [[git](https://github.com/d5br5/snu_data_structure/tree/main/HW6)]
 
+## 📜 Learning Now
+- React.js
 
 <!--
 **d5br5/d5br5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
