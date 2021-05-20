@@ -11,7 +11,7 @@
 - coin trading market [[link](https://codesandbox.io/s/naughty-browser-5rvjd?file=/src/index.js) / [git](https://github.com/d5br5/coindealer.api)]
 - SNU RPG mudgame [[link](https://hxj8x.sse.codesandbox.io/) / [git](https://github.com/d5br5/mudgame)]
 
-### JAVA App
+### JAVA App - make public after semeter
 
 - Big Int Calculator [[git](https://github.com/d5br5/snu_data_structure/tree/main/HW1)]
 - Movie Database Console [[git](https://github.com/d5br5/snu_data_structure/tree/main/HW2)]
