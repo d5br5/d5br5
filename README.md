@@ -7,9 +7,11 @@
 
 ### Web App
 
-- Minesweeper [[link](https://d5br5.github.io/minesweeper/) / [git](https://github.com/d5br5/minesweeper)]
+
 - Coin trading market (Front) [[link](https://snu_coin_dohkim.surge.sh) / [git](https://github.com/d5br5/coin-trading-market-front)]
 - Coin trading market (Back) [[git](https://github.com/d5br5/coindealer.api)]
+- Dwitter [[link](https://d5br5.github.io/dwitter/) / [git](https://github.com/d5br5/dwitter)]
+- Minesweeper [[link](https://d5br5.github.io/minesweeper/) / [git](https://github.com/d5br5/minesweeper)]
 - SNU RPG mudgame [[link](https://hxj8x.sse.codesandbox.io/) / [git](https://github.com/d5br5/mudgame)]
 
 ### JAVA App
