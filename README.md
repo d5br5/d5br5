@@ -3,7 +3,7 @@
 ### Web Page
 
 - d5br5.com  [[link](http://dd5dd5.com) / [git](https://github.com/d5br5/d5br5.com)]
-- youniv.video [[link](http://www.youniv.video)]
+- youniv.video [[link](http://www.youniv.video) / [git](https://github.com/d5br5/youniv.video)]
 
 ### Web App
 
@@ -12,7 +12,7 @@
 - Coin trading market (Back) [[git](https://github.com/d5br5/coindealer.api)]
 - SNU RPG mudgame [[link](https://hxj8x.sse.codesandbox.io/) / [git](https://github.com/d5br5/mudgame)]
 
-### JAVA App - make public after 6/19
+### JAVA App
 
 - Big Int Calculator [[git](https://github.com/d5br5/snu_data_structure/tree/main/HW1)]
 - Movie Database Console [[git](https://github.com/d5br5/snu_data_structure/tree/main/HW2)]
