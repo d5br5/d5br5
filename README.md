@@ -2,7 +2,7 @@
 
 ### Web Page
 
-- d5br5.com  [[link](http://dd5dd5.com) / [git](https://github.com/d5br5/d5br5.com)]
+- d5br5.com  [[link](http://d5br5.com) / [git](https://github.com/d5br5/d5br5.com)]
 - youniv.video [[link](http://www.youniv.video) / [git](https://github.com/d5br5/youniv.video)]
 
 ### Web App
