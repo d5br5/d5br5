@@ -28,7 +28,7 @@
 - Subway route search [[git](https://github.com/d5br5/snu_data_structure/tree/main/HW6)]
            
 ## 📜 Learning Now
-- React.js
+- TypeScript
 
 <!--
 **d5br5/d5br5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
