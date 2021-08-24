@@ -2,7 +2,7 @@
 
 **Studying**
 
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/Apollo-311C87?style=flat&logo=apollo%20graphql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/Apollo-311C87?style=flat&logo=apollo%20graphql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> 
 
 **Use well**
 
