@@ -35,6 +35,7 @@
 - Coin trading market (Server) [[git](https://github.com/d5br5/coindealer.api)]
 - Dohflix (Netflix Clone) [[link](https://dohflix.vercel.app) / [git](https://github.com/d5br5/dohflix)] 
 - Dwitter (Twitter Clone) [[link](https://d5br5.github.io/dwitter/) / [git](https://github.com/d5br5/dwitter)]
+- Instaclone [[git](https://github.com/d5br5/instagramClone)]
 
 
 **Web App - Collaboratory**
