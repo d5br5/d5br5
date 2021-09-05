@@ -33,7 +33,7 @@
 - Coin trading market [[link](https://snu_coin_dohkim.surge.sh) / [git:web](https://github.com/d5br5/WEB_coin-trading-market) / [git:server](https://github.com/d5br5/SERVER_coin-trading-market)]
 - Dohflix (Netflix Clone) [[link](https://dohflix.vercel.app) / [git](https://github.com/d5br5/WEB_dohflix)] 
 - Dwitter (Twitter Clone) [[link](https://d5br5.github.io/WEB_dwitter/) / [git](https://github.com/d5br5/WEB_dwitter)]
-- Instaclone [[git](https://github.com/d5br5/instagramClone)]
+- Instaclone (Instagram Clone) [[git](https://github.com/d5br5/instagramClone)]
 - Coffee SNS [[git:server](https://github.com/d5br5/SERVER_nomadcoffee-backend) / [git:web](https://github.com/d5br5/WEB_nomadcoffee-frontend) / [git:app](https://github.com/d5br5/APP_nomadcoffee-native)]
 
 **Web Game**
