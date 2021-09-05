@@ -28,20 +28,20 @@
 - d5br5.com  [[link](http://d5br5.com) / [git](https://github.com/d5br5/WEB_d5br5.com)]
 - youniv.video [[link](http://www.youniv.video) / [git](https://github.com/d5br5/WEB_youniv.video)]
 
-**Web App - Pesonal**
+**Web App**
 
-- Minesweeper [[link](https://d5br5.github.io/GAME_Minesweeper/) / [git](https://github.com/d5br5/GAME_Minesweeper)]
 - Coin trading market (Front) [[link](https://snu_coin_dohkim.surge.sh) / [git](https://github.com/d5br5/WEB_coin-trading-market)]
 - Coin trading market (Server) [[git](https://github.com/d5br5/SERVER_coin-trading-market)]
 - Dohflix (Netflix Clone) [[link](https://dohflix.vercel.app) / [git](https://github.com/d5br5/WEB_dohflix)] 
 - Dwitter (Twitter Clone) [[link](https://d5br5.github.io/WEB_dwitter/) / [git](https://github.com/d5br5/WEB_dwitter)]
 - Instaclone [[git](https://github.com/d5br5/instagramClone)]
+- Coffee SNS [[git:server](https://github.com/d5br5/SERVER_nomadcoffee-backend) / [git:web](https://github.com/d5br5/WEB_nomadcoffee-frontend) / [git:app](https://github.com/d5br5/APP_nomadcoffee-native)]
 
-
-**Web App - Collaboratory**
+**Web Game**
 
 - Criminals physiognomy test [[link](https://snuweb-team6.vercel.app) / [git](https://github.com/d5br5/WEB_snuweb_team6)]
 - SNU RPG mudgame [[link](https://hxj8x.sse.codesandbox.io/) / [git](https://github.com/d5br5/GAME_SNU_RPG_Mudgame)]
+- Minesweeper [[link](https://d5br5.github.io/GAME_Minesweeper/) / [git](https://github.com/d5br5/GAME_Minesweeper)]
 
 **JAVA App**
 
