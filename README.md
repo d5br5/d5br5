@@ -30,11 +30,11 @@
 
 **Web App - Pesonal**
 
-- Minesweeper [[link](https://d5br5.github.io/minesweeper/) / [git](https://github.com/d5br5/GAME_Minesweeper)]
+- Minesweeper [[link](https://d5br5.github.io/GAME_Minesweeper/) / [git](https://github.com/d5br5/GAME_Minesweeper)]
 - Coin trading market (Front) [[link](https://snu_coin_dohkim.surge.sh) / [git](https://github.com/d5br5/WEB_coin-trading-market)]
 - Coin trading market (Server) [[git](https://github.com/d5br5/SERVER_coin-trading-market)]
 - Dohflix (Netflix Clone) [[link](https://dohflix.vercel.app) / [git](https://github.com/d5br5/WEB_dohflix)] 
-- Dwitter (Twitter Clone) [[link](https://d5br5.github.io/dwitter/) / [git](https://github.com/d5br5/WEB_dwitter)]
+- Dwitter (Twitter Clone) [[link](https://d5br5.github.io/WEB_dwitter/) / [git](https://github.com/d5br5/WEB_dwitter)]
 - Instaclone [[git](https://github.com/d5br5/instagramClone)]
 
 
