@@ -30,7 +30,7 @@
 
 **Web App**
 
-- Coin trading market [[git](https://github.com/d5br5/WEB-coin-market)]
+- Coin-to-the-Moon (Coin trading market) [[link](https://coin-to-the-moon.vercel.app/) / [git](https://github.com/d5br5/WEB-coin-market)]
 - Dohflix (Netflix Clone) [[link](https://dohflix.vercel.app) / [git](https://github.com/d5br5/WEB_dohflix)] 
 - Dwitter (Twitter Clone) [[link](https://d5br5.github.io/WEB_dwitter/) / [git](https://github.com/d5br5/WEB_dwitter)]
 - Instaclone (Instagram Clone) [[git](https://github.com/d5br5/instagramClone)]
