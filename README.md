@@ -38,7 +38,7 @@
 
 **Web Game**
 
-- SNU RPG mudgame [[link](https://hxj8x.sse.codesandbox.io/) / [git](https://github.com/d5br5/GAME_RPG_Mudgame)]
+- Web RPG mudgame [[link](https://hxj8x.sse.codesandbox.io/) / [git](https://github.com/d5br5/GAME_RPG_Mudgame)]
 - Criminals physiognomy test [[link](https://snuweb-team6.vercel.app) / [git](https://github.com/d5br5/WEB_Criminals_Physiognomy_Test)]
 - Minesweeper [[link](https://d5br5.github.io/GAME_Minesweeper/) / [git](https://github.com/d5br5/GAME_Minesweeper)]
 
