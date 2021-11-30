@@ -3,7 +3,7 @@
 
 **Studying**
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
 
 **Use well**
 
@@ -12,8 +12,8 @@
 
 **Have used**  
 
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/Apollo-311C87?style=flat&logo=apollo%20graphql&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>  
+<img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/Apollo-311C87?style=flat&logo=apollo%20graphql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> 
 
 **Tool**
 
