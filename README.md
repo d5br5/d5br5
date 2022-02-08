@@ -31,7 +31,7 @@
 - Coin trading market : "Coin-to-the-Moon" [[link](https://coin-to-the-moon.vercel.app/) / [git](https://github.com/d5br5/WEB-coin-market)]
 - Self-studio search & reservation : "Prism Station" [[link](https://prism-station.vercel.app/) / [git](https://github.com/d5br5/WEB_PrismStudio)]
 - Web RPG mudgame [[link](https://snu-rpg.herokuapp.com/) / [git](https://github.com/d5br5/GAME_RPG_Mudgame)]
-- Criminals physiognomy test [[link](https://snuweb-team6.vercel.app) / [git](https://github.com/d5br5/GAME_Criminals)]
+- Criminals physiognomy test [[link](https://criminals-game.vercel.app/#/) / [git](https://github.com/d5br5/GAME_Criminals)]
 - Minesweeper [[link](https://d5br5.github.io/GAME_Minesweeper/) / [git](https://github.com/d5br5/GAME_Minesweeper)]
 
 <!-- - Dohflix (Netflix Clone) [[link](https://dohflix.vercel.app) / [git](https://github.com/d5br5/WEB_dohflix)] 
