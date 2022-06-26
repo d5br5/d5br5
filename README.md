@@ -17,7 +17,7 @@
 
 **Web Page**
 
-- d5br5.com  [[link](http://d5br5.com) / [git](https://github.com/d5br5/WEB_d5br5.com)]
+- d5br5.dev  [[link](http://d5br5.dev) / [git](https://github.com/d5br5/d5br5.dev)]
 - youniv.video [[link](http://www.youniv.video) / [git](https://github.com/d5br5/WEB_youniv.video)]
 
 **Web Service**
