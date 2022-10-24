@@ -1,9 +1,10 @@
 ## 📜 Tech Stack
 
 
-**Use well**
+**Using**
 
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Recoil-4D9FE7?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/vitess-F16728?style=flat&logo=vitess&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
+
 
 **Have used**  
 
@@ -11,7 +12,7 @@
 
 **Tools**
 
-<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon%20aws&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>  <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white"/>
 
 ## ⚡ Projects
 
