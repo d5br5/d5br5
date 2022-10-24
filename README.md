@@ -15,16 +15,17 @@
 
 ## ⚡ Projects
 
-**Web Page**
-
-- d5br5.dev  [[link](http://d5br5.dev) / [git](https://github.com/d5br5/d5br5.dev)]
-- youniv.video [[link](http://www.youniv.video) / [git](https://github.com/d5br5/WEB_youniv.video)]
 
 **Web Service**
 
 - Robo Advisor [[link](https://robo-advisor.vercel.app/) / [git](https://github.com/d5br5/WEB_RoboAdvisor)]
+- Self-studio search & reservation : "Prism Station" [[link](https://prism-station.vercel.app/) / [git](https://github.com/d5br5/WEB_Prism_Station)]
 - Coin trading market : "Coin-to-the-Moon" [[link](https://coin-to-the-moon.vercel.app/) / [git](https://github.com/d5br5/WEB-coin-market)]
-- Self-studio search & reservation : "Prism Station" [[link](https://prism-station.vercel.app/) / [git](https://github.com/d5br5/WEB_PrismStudio)]
+
+**Web Page**
+
+- d5br5.dev  [[link](http://d5br5.dev) / [git](https://github.com/d5br5/d5br5.dev)]
+- youniv.video [[link](http://www.youniv.video) / [git](https://github.com/d5br5/WEB_youniv.video)]
 
 **Web Game**
 
