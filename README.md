@@ -21,7 +21,7 @@
 
 - Robo Advisor (2022.07) [[link](https://robo-advisor.vercel.app/) / [git](https://github.com/d5br5/WEB_RoboAdvisor)]
 - Self-studio search & reservation : "Prism Station" (2021.12) [[link](https://prism-station.vercel.app/) / [git](https://github.com/d5br5/WEB_Prism_Station)]
-- Coin trading market : "Coin-to-the-Moon" (2021.05) [[link](https://coin-to-the-moon.vercel.app/) / [git](https://github.com/d5br5/WEB-coin-market)]
+- Coin trading market : "Coin-to-the-Moon" (2021.05) [[git](https://github.com/d5br5/WEB-coin-market)]
 
 **Web Page**
 
