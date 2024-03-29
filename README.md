@@ -1,8 +1,7 @@
 ## 📜 Link
 
 - CV : [notion](https://dohkim777.notion.site/Doh-Kim-0466566b571c40389ea225fe664989b9?pvs=4)
-- Tech Blog : [tistory](https://dd5dd5.tistory.com)
-- SNS : [linkedIn](https://www.linkedin.com/in/dohkim777)
+- SNS : [linkedIn](https://www.linkedin.com/in/dohkim777) [Tech Blog](https://www.d5br5.dev/blog)
 
 
 
