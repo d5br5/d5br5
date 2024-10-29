@@ -41,3 +41,8 @@
 - 지뢰찾기 [ [git](https://github.com/d5br5/GAME_Minesweeper) ]
   - 윈도우 내장 게임인 '지뢰찾기'의 웹 버전 구현
   - `html`, `css`, `javascript`
+
+
+## Stats
+
+![Doh's GitHub stats](https://github-readme-stats.vercel.app/api?username=d5br5&show_icons=true&theme=dracula)
