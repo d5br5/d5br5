@@ -1,7 +1,7 @@
 ## 📜 Link
 
 - CV: [한국어](https://d5br5.dev/about/ko) / [English](https://d5br5.dev/about/en)
-- SNS: [linkedIn](https://www.linkedin.com/in/dohkim777) / [Tech Blog](https://www.d5br5.dev/blog)
+- SNS: [LinkedIn](https://www.linkedin.com/in/dohkim777) / [Tech Blog](https://www.d5br5.dev/blog)
 
 
 
