@@ -25,9 +25,7 @@
 
 ## Stats
 
-<div align="center">
-  <p>
+<div align="center" style="display:flex; gap:40px;">
     <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d5br5&" alt="d5br5" />
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=d5br5&show_icons=true&theme=gruvbox_light" />
-  </p>
 </div>
