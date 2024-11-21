@@ -25,7 +25,5 @@
 
 ## Stats
 
-<p align="center" >
-    <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d5br5&" alt="d5br5" />
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=d5br5&show_icons=true&theme=gruvbox_light" />
-</p>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=d5br5&show_icons=true&theme=gruvbox_light" />
+
