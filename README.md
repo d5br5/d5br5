@@ -11,7 +11,7 @@
 **Web Service**
 
 - 개인 블로그 (**Github ★90↑, Fork 10↑**) [ [link](https://d5br5.dev/blog) / [git](https://github.com/d5br5/d5br5.blog) ] `Next.js`, `MDX`, `tailwindcss`, `shadcn/ui`
-- 텍스트-이미지 생성 플랫폼 (with midjourney AI)  [ [link](https://dorosi.ai/) ] `Next.js`, `tailwindcss`, `shadcn/ui`
+- 이미지 생성 플랫폼 with midjourney AI  [ [link](https://dorosi.ai/) ] `Next.js`, `tailwindcss`, `shadcn/ui`
 - 카페 온라인 예약 시스템 (집사카페 '루치펠') [ [link](https://www.lucifelbutler.com/ko/reservation) ] `Next.js`, `Supabase`, `tailwindcss`, `shadcn/ui`
 - 자산 배분, 투자 시뮬레이터 [ [git](https://github.com/d5br5/WEB_RoboAdvisor) ] `React.js`, `Redux`, `MUI`, `Chart.js`
 - 셀프 스튜디오 검색 및 예약 플랫폼: Prism Station [ [git](https://github.com/d5br5/WEB_Prism_Station) ] `Next.js`, `Recoil`, `MUI`, `Naver API`
