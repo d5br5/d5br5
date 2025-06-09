@@ -29,3 +29,6 @@
 
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=d5br5&show_icons=true&theme=gruvbox_light" />
 
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
