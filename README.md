@@ -5,11 +5,11 @@
 
 ## 📃 Open Source
 
-### nextjs-tailwind-blog
+**nextjs-tailwind-blog**
 
 - **Github ★100↑, Fork 10↑** [ [Blog Link](https://d5br5.dev/blog) / [Git Repository](https://github.com/d5br5/nextjs-tailwind-blog) ]
 - `Next.js`와 `tailwindcss`로 구축된 블로그 및 이력서 사이트 생성 템플릿
-- `mdx`로 게시물 작성 가능, headless  ui로 가독성 및 심미성 향상
+- `mdx`로 게시물 작성 가능, `shadcn/ui`로 심미성 제고
 
 
 ## ⚡ Projects
