@@ -7,7 +7,7 @@
 
 ### nextjs-tailwind-blog
 
-- **Github ★100↑, Fork 10↑** [ [Blog Link](https://d5br5.dev/blog) / [Git Repository](https://github.com/d5br5/nextjs-tailwind-blog) ]
+- **Github ★100↑, Fork 10↑** [ [Blog Link](https://doh.kim) / [Git Repository](https://github.com/d5br5/nextjs-tailwind-blog) ]
 - `Next.js`와 `tailwindcss`로 구축된 블로그 및 이력서 사이트 생성 템플릿
 - `mdx`로 게시물 작성 가능, `shadcn/ui`로 심미성 제고
 
@@ -17,7 +17,7 @@
 
 **Web Service**
 
-- maple-quiz.com (DAU 4만) [ [link](https://maplequiz.com) / [blog](https://d5br5.dev/blog/product/maplequiz) ] `React.js`, `tailwindcss`
+- maple-quiz.com (DAU 4만) [ [link](https://maplequiz.com) / [blog](https://doh.kim/blog/product/maplequiz) ] `React.js`, `tailwindcss`
 - 이미지 생성 플랫폼 with midjourney AI  [ [link](https://dorosi.ai/) ] `Next.js`, `tailwindcss`, `shadcn/ui`
 - 카페 온라인 예약 시스템 (집사카페 '루치펠') [ [link](https://www.lucifelbutler.com/ko/reservation) ] `Next.js`, `Supabase`, `tailwindcss`, `shadcn/ui`
 - 자산 배분, 투자 시뮬레이터 [ [git](https://github.com/d5br5/WEB_RoboAdvisor) ] `React.js`, `Redux`, `MUI`, `Chart.js`
