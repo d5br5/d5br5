@@ -7,7 +7,7 @@
 
 ### nextjs-tailwind-blog
 
-- **Github ★110↑, Fork 10↑** [ [Blog Link](https://doh.kim) / [Git Repository](https://github.com/d5br5/nextjs-tailwind-blog) ]
+- **Github ★120↑, Fork 10↑** [ [Blog Link](https://doh.kim) / [Git Repository](https://github.com/d5br5/nextjs-tailwind-blog) ]
 - `Next.js`와 `tailwindcss`로 구축된 블로그 및 이력서 사이트 생성 템플릿
 - `mdx`로 게시물 작성 가능, `shadcn/ui`로 심미성 제고
 
