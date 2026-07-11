@@ -33,7 +33,7 @@
 
 ## Stats
 
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=d5br5&show_icons=true&theme=gruvbox_light" />
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=d5br5)](https://github.com/stats-organization/github-stats-extended)
 
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
